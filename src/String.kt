@@ -6,5 +6,5 @@ fun main (args:Array<String>){
     println("small letters: " +sentence.toLowerCase())
     println("Upper case letters: " +sentence.toUpperCase())
     println("Array pick: " +sentence[5])
-    println("Split: " +sentence.split(""))
+    println("Split: " +sentence.split(" "))
 }
